@@ -39,7 +39,7 @@
 1. [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
 2. [Forked Repository](https://github.com/kandaaang/teammates)
 
-### Day 3: September 12, 2020, Saturday
+### Day 3: September 13, 2020, Sunday
 
 **Today's Progress**: Selected Teammates as First Project
 
@@ -48,8 +48,6 @@
 **Link(s) to work**
 1. [TEAMMATES/teammates](https://github.com/TEAMMATES/teammates)
 2. [Forked Repository](https://github.com/kandaaang/teammates)
-
-### Day 4: September 13, 2020, Sunday
 
 **Today's Progress**: LeetCode Problems
 
